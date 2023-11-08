@@ -71,7 +71,7 @@
 
 
 
-                                  <p align="justify">
+                                  <p align="justify">ЖИЛ БЫЛ ГЕНА ЕМУ 19 ЛЕТ ОН ОТЧИСЛИЛСЯ ИЗ-ЗА МАМОНА НО ОН НЕ ОТЧАЕЛСЯ ПОШЕЛ РАБОТАТЬ В МАГНИТ НО ЕГО ТАМ УВОЛИЛИ ЗП НЕ ДАЛИ НО ОН ПОШЕЛ В ПЕРЯКРЕСТОК ТАМ ТОЖЕ УВОЛИЛИ ПОШЕЛ НА ЗАВОД ТАМ ЕГО НЕ ВЗЯЛИ
 </p>
 
 
@@ -79,7 +79,7 @@
                                 		<span class="art-button-wrapper">
                                 			<span class="l"> </span>
                                 			<span class="r"> </span>
-                                			<a class="art-button" href="javascript:void(0)">Join&nbsp;Now!</a>
+                                			<a class="art-button" href="javascript:void(0)">Поставиь&nbsp;лайк</a>
                                 		</span>
                                 	</p>
 
@@ -97,7 +97,7 @@
                                     <div class="l"></div>
                                     <div class="r"></div>
                                     <div class="art-header-tag-icon">
-                                        <div class="t">Newsletter</div>
+                                        <div class="t">ПОДПИСАТЬСЯ НА ИСТОРИИ</div>
                                     </div>
                                 </div><div class="art-BlockContent">
                                     <div class="art-BlockContent-tl"></div>
@@ -128,7 +128,7 @@
                                     <div class="l"></div>
                                     <div class="r"></div>
                                     <div class="art-header-tag-icon">
-                                        <div class="t">Log In</div>
+                                        <div class="t">ВХОД</div>
                                     </div>
                                 </div><div class="art-BlockContent">
                                     <div class="art-BlockContent-tl"></div>
@@ -171,8 +171,8 @@
 										</script>
                                         <form action="loginH.php" method="POST" onsubmit="return check(this)">
 <table>
-<tr><td>User Id:</td></tr><tr><td><input type="text" name="uid"><span id='spuid' style="color: red;"></span></td></tr>
-<tr><td>Password:</td></tr><tr><td><input type="password" name="pwd"><span id='spuid' style="color: red;"></span></td></tr>
+<tr><td>ЛОГИН:</td></tr><tr><td><input type="text" name="uid"><span id='spuid' style="color: red;"></span></td></tr>
+<tr><td>ПАРОЛЬ:</td></tr><tr><td><input type="password" name="pwd"><span id='spuid' style="color: red;"></span></td></tr>
 <tr><td><input type="submit" value="login"><input type="reset" value="cancel"></td></tr>
 <tr><td><a href="register.php"><input type="button" value="Sign Up"></a></td></tr>
 </table>
@@ -200,7 +200,7 @@
                                     <div class="l"></div>
                                     <div class="r"></div>
                                     <div class="art-header-tag-icon">
-                                        <div class="t">Highlights</div>
+                                        <div class="t">Сейчас читают</div>
                                     </div>
                                 </div><div class="art-BlockContent">
                                     <div class="art-BlockContent-tl"></div>
@@ -214,22 +214,14 @@
                                     <div class="art-BlockContent-cc"></div>
                                     <div class="art-BlockContent-body">
                                       <marquee direction="up" onmouseover="stop()" onmouseout="start()" scrollamount="1" scrolldelay="1" style="height:400px;">  <div>
-                                                          <p><b>Jun 14, 2012</b><br/>
-                                                          Aliquam sit amet felis. Mauris semper,
-                                                          velit semper laoreet dictum, quam
-                                                          diam dictum urna, nec placerat elit
-                                                          nisl in quam. Etiam augue pede,
-                                                          molestie eget, rhoncus at, convallis
-                                                          ut, eros. Aliquam pharetra.<br/>
+                                                          <p><b>10 НОЯБРЯ 2023</b><br/>
+                                                          ЭТО МОЙ ПРОЕКТ ПО LARAVEL
+
+Выполнили: Мамонов Роман, Игорь Винник<br/>
                                                           <a href="javascript:void(0)">Read more...</a></p>
 
-                                                          <p><b>Apr 24, 2012</b><br/>
-                                                          Aliquam sit amet felis. Mauris semper,
-                                                          velit semper laoreet dictum, quam
-                                                          diam dictum urna, nec placerat elit
-                                                          nisl in quam. Etiam augue pede,
-                                                          molestie eget, rhoncus at, convallis
-                                                          ut, eros. Aliquam pharetra.<br/>
+                                                          <p><b>9 НОЯБРЯ 2023</b><br/>
+                                                          ЖИЛ БЫЛ ГЕНА ЕМУ 19 ЛЕТ ОН ОТЧИСЛИЛСЯ ИЗ-ЗА МАМОНА НО ОН НЕ ОТЧАЕЛСЯ<br/>
                                                           <a href="javascript:void(0)">Read more...</a></p>
                                                           </div>
 		</marquee>
